@@ -4,8 +4,30 @@
     box-sizing: border-box;
 }
 
-
 .personalimg {
     max-width: 200px;
     border-radius: 50%;
+}
+
+.navbar-brand {
+    font-size: 27px !important;
+    font-weight: bold !important;
+}
+
+.logof {
+    height: 40px;
+
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+body {
+    background: url('../imgs/background.svg') no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 50px;
 }
